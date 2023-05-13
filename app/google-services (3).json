@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "584404521025",
+    "firebase_url": "https://reservation-ticket-default-rtdb.firebaseio.com",
+    "project_id": "reservation-ticket",
+    "storage_bucket": "reservation-ticket.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584404521025:android:b42395b2dd83df1e6536c0",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584404521025-66u05fh0j8pqig1j3mm1a85h0g6mfh75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-TlMmjlZd_XO3LkEsMHbcVOisb1JBsyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584404521025-66u05fh0j8pqig1j3mm1a85h0g6mfh75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

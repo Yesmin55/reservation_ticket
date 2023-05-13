@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <group android:checkableBehavior="single">
+
+              <item android:id="@+id/addDevice"
+                  android:title="Add device"
+                  android:icon="@drawable/add"
+                  />
+            <item android:id="@+id/ticket"
+                android:title="Ticket electrique "
+                android:icon="@drawable/ticket"
+                />
+
+
+
+        </group>
+
+</menu>
